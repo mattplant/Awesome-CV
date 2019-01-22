@@ -1,3 +1,15 @@
+(START OF FORKED COMMENTS)
+
+This is a fork from the <a href="https://github.com/posquit0/Awesome-CV">posquit0/Awesome-CV</a> on 1/20/19.
+
+Kudos goes to <a href="https://github.com/posquit0">Byungjin Park</a>!
+
+I hardly needed to make changes and those that I did were simple due to the elegant design and great documentation.  I added in a middle name, defaulted the paper size to US Letter and moderated the font sizes by reducing the largest fonts down a couple of sizes and increasing the smallest fonts to give more function in the form over function spectrum. I also tweaked the color palette. Yes, I am a Washington Husky :)
+
+(END OF FORKED COMMENTS)
+
+<hr>
+
 <h1 align="center">
   <a href="https://github.com/posquit0/Awesome-CV" title="AwesomeCV Documentation">
     <img alt="AwesomeCV" src="https://github.com/posquit0/Awesome-CV/raw/master/icon.png" width="200px" height="200px" />
